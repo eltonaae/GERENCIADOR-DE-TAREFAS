@@ -1,0 +1,6 @@
+{
+  "name": "Rotina Fácil",
+  "description": "Rotinas, tarefas e informações em um só lugar",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
