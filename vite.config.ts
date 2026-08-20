@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(({ command }) => {
   return {
-    base: command === 'serve' ? '/' : '/TOP-AniRanker/',
+    base: command === 'serve' ? '/' : '/GERENCIADOR-DE-TAREFAS/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
